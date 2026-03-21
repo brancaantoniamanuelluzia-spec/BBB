@@ -1,0 +1,13 @@
+{
+  "background_color": "#3673e5",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Nosso Cyber &amp; Gráfica F.G.C",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "FGC",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Nosso Cyber &amp; Gráfica F.G.C Comercial",
+  "id": "FGC"
+}
