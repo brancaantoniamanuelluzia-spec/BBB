@@ -1,0 +1,18 @@
+{
+  "name": "Nosso Cyber & Gráfica F.G.C Comercial",
+  "short_name": "FGC Comercial",
+  "description": "Nosso Cyber & Gráfica F.G.C Comercial",
+  "start_url": "/BBB/nnossocyber_empresa.html",
+  "display": "standalone",
+  "background_color": "#f5a800",
+  "theme_color": "#f5a800",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/BBB/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
